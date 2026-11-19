@@ -1,0 +1,324 @@
+{
+  "bairro": "Vila Yara - Osasco",
+  "fonte": "Dados simulados para fins educacionais",
+  "linhas": [
+    "428 - Vila Yara / Terminal Libano",
+    "557 - Vila Yara / Terminal Itapevi",
+    "283 - Vila Yara / Terminal Carapicuiba",
+    "350 - Vila Yara / Terminal Itaquera",
+    "022 - Vila Yara / Terminal Carapicuíba (Vila Dirce)",
+    "082 - Vila Yara / Terminal Barueri",
+    "870 - Vila Yara / Terminal Cotia",
+    "307 - Vila Yara / Terminal Granja Viana",
+    "202 - Vila Yara / Terminal Pirituba",
+    "488 - Vila Yara / Terminal Butantã"
+  ],
+  "registros": [
+    {
+      "linha": "428 - Vila Yara / Terminal Libano",
+      "atraso_min": 18,
+      "lotacao": 3,
+      "horario": "06:50"
+    },
+    {
+      "linha": "428 - Vila Yara / Terminal Libano",
+      "atraso_min": 12,
+      "lotacao": 3,
+      "horario": "07:10"
+    },
+    {
+      "linha": "428 - Vila Yara / Terminal Libano",
+      "atraso_min": 15,
+      "lotacao": 3,
+      "horario": "07:40"
+    },
+    {
+      "linha": "428 - Vila Yara / Terminal Libano",
+      "atraso_min": 10,
+      "lotacao": 2,
+      "horario": "17:30"
+    },
+    {
+      "linha": "428 - Vila Yara / Terminal Libano",
+      "atraso_min": 16,
+      "lotacao": 3,
+      "horario": "18:05"
+    },
+    {
+      "linha": "557 - Vila Yara / Terminal Itapevi",
+      "atraso_min": 5,
+      "lotacao": 1,
+      "horario": "06:50"
+    },
+    {
+      "linha": "557 - Vila Yara / Terminal Itapevi",
+      "atraso_min": 8,
+      "lotacao": 2,
+      "horario": "07:10"
+    },
+    {
+      "linha": "557 - Vila Yara / Terminal Itapevi",
+      "atraso_min": 4,
+      "lotacao": 1,
+      "horario": "07:40"
+    },
+    {
+      "linha": "557 - Vila Yara / Terminal Itapevi",
+      "atraso_min": 7,
+      "lotacao": 2,
+      "horario": "17:30"
+    },
+    {
+      "linha": "557 - Vila Yara / Terminal Itapevi",
+      "atraso_min": 6,
+      "lotacao": 2,
+      "horario": "18:05"
+    },
+    {
+      "linha": "283 - Vila Yara / Terminal Carapicuiba",
+      "atraso_min": 9,
+      "lotacao": 2,
+      "horario": "06:50"
+    },
+    {
+      "linha": "283 - Vila Yara / Terminal Carapicuiba",
+      "atraso_min": 11,
+      "lotacao": 3,
+      "horario": "07:10"
+    },
+    {
+      "linha": "283 - Vila Yara / Terminal Carapicuiba",
+      "atraso_min": 7,
+      "lotacao": 2,
+      "horario": "07:40"
+    },
+    {
+      "linha": "283 - Vila Yara / Terminal Carapicuiba",
+      "atraso_min": 10,
+      "lotacao": 2,
+      "horario": "17:30"
+    },
+    {
+      "linha": "283 - Vila Yara / Terminal Carapicuiba",
+      "atraso_min": 8,
+      "lotacao": 2,
+      "horario": "18:05"
+    },
+    {
+      "linha": "350 - Vila Yara / Terminal Itaquera",
+      "atraso_min": 13,
+      "lotacao": 3,
+      "horario": "06:50"
+    },
+    {
+      "linha": "350 - Vila Yara / Terminal Itaquera",
+      "atraso_min": 9,
+      "lotacao": 2,
+      "horario": "07:10"
+    },
+    {
+      "linha": "350 - Vila Yara / Terminal Itaquera",
+      "atraso_min": 14,
+      "lotacao": 3,
+      "horario": "07:40"
+    },
+    {
+      "linha": "350 - Vila Yara / Terminal Itaquera",
+      "atraso_min": 11,
+      "lotacao": 2,
+      "horario": "17:30"
+    },
+    {
+      "linha": "350 - Vila Yara / Terminal Itaquera",
+      "atraso_min": 12,
+      "lotacao": 3,
+      "horario": "18:05"
+    },
+    {
+      "linha": "022 - Vila Yara / Terminal Carapicuíba (Vila Dirce)",
+      "atraso_min": 8,
+      "lotacao": 2,
+      "horario": "06:50"
+    },
+    {
+      "linha": "022 - Vila Yara / Terminal Carapicuíba (Vila Dirce)",
+      "atraso_min": 10,
+      "lotacao": 2,
+      "horario": "07:10"
+    },
+    {
+      "linha": "022 - Vila Yara / Terminal Carapicuíba (Vila Dirce)",
+      "atraso_min": 7,
+      "lotacao": 2,
+      "horario": "07:40"
+    },
+    {
+      "linha": "022 - Vila Yara / Terminal Carapicuíba (Vila Dirce)",
+      "atraso_min": 9,
+      "lotacao": 3,
+      "horario": "17:30"
+    },
+    {
+      "linha": "022 - Vila Yara / Terminal Carapicuíba (Vila Dirce)",
+      "atraso_min": 11,
+      "lotacao": 2,
+      "horario": "18:05"
+    },
+    {
+      "linha": "082 - Vila Yara / Terminal Barueri",
+      "atraso_min": 3,
+      "lotacao": 1,
+      "horario": "06:50"
+    },
+    {
+      "linha": "082 - Vila Yara / Terminal Barueri",
+      "atraso_min": 5,
+      "lotacao": 1,
+      "horario": "07:10"
+    },
+    {
+      "linha": "082 - Vila Yara / Terminal Barueri",
+      "atraso_min": 4,
+      "lotacao": 2,
+      "horario": "07:40"
+    },
+    {
+      "linha": "082 - Vila Yara / Terminal Barueri",
+      "atraso_min": 6,
+      "lotacao": 1,
+      "horario": "17:30"
+    },
+    {
+      "linha": "082 - Vila Yara / Terminal Barueri",
+      "atraso_min": 2,
+      "lotacao": 1,
+      "horario": "18:05"
+    },
+    {
+      "linha": "870 - Vila Yara / Terminal Cotia",
+      "atraso_min": 15,
+      "lotacao": 3,
+      "horario": "06:50"
+    },
+    {
+      "linha": "870 - Vila Yara / Terminal Cotia",
+      "atraso_min": 17,
+      "lotacao": 3,
+      "horario": "07:10"
+    },
+    {
+      "linha": "870 - Vila Yara / Terminal Cotia",
+      "atraso_min": 14,
+      "lotacao": 3,
+      "horario": "07:40"
+    },
+    {
+      "linha": "870 - Vila Yara / Terminal Cotia",
+      "atraso_min": 19,
+      "lotacao": 3,
+      "horario": "17:30"
+    },
+    {
+      "linha": "870 - Vila Yara / Terminal Cotia",
+      "atraso_min": 16,
+      "lotacao": 2,
+      "horario": "18:05"
+    },
+    {
+      "linha": "307 - Vila Yara / Terminal Granja Viana",
+      "atraso_min": 6,
+      "lotacao": 2,
+      "horario": "06:50"
+    },
+    {
+      "linha": "307 - Vila Yara / Terminal Granja Viana",
+      "atraso_min": 7,
+      "lotacao": 2,
+      "horario": "07:10"
+    },
+    {
+      "linha": "307 - Vila Yara / Terminal Granja Viana",
+      "atraso_min": 5,
+      "lotacao": 1,
+      "horario": "07:40"
+    },
+    {
+      "linha": "307 - Vila Yara / Terminal Granja Viana",
+      "atraso_min": 8,
+      "lotacao": 2,
+      "horario": "17:30"
+    },
+    {
+      "linha": "307 - Vila Yara / Terminal Granja Viana",
+      "atraso_min": 6,
+      "lotacao": 1,
+      "horario": "18:05"
+    },
+    {
+      "linha": "202 - Vila Yara / Terminal Pirituba",
+      "atraso_min": 11,
+      "lotacao": 3,
+      "horario": "06:50"
+    },
+    {
+      "linha": "202 - Vila Yara / Terminal Pirituba",
+      "atraso_min": 9,
+      "lotacao": 2,
+      "horario": "07:10"
+    },
+    {
+      "linha": "202 - Vila Yara / Terminal Pirituba",
+      "atraso_min": 12,
+      "lotacao": 3,
+      "horario": "07:40"
+    },
+    {
+      "linha": "202 - Vila Yara / Terminal Pirituba",
+      "atraso_min": 10,
+      "lotacao": 2,
+      "horario": "17:30"
+    },
+    {
+      "linha": "202 - Vila Yara / Terminal Pirituba",
+      "atraso_min": 13,
+      "lotacao": 3,
+      "horario": "18:05"
+    },
+    {
+      "linha": "488 - Vila Yara / Terminal Butantã",
+      "atraso_min": 7,
+      "lotacao": 2,
+      "horario": "06:50"
+    },
+    {
+      "linha": "488 - Vila Yara / Terminal Butantã",
+      "atraso_min": 9,
+      "lotacao": 2,
+      "horario": "07:10"
+    },
+    {
+      "linha": "488 - Vila Yara / Terminal Butantã",
+      "atraso_min": 8,
+      "lotacao": 3,
+      "horario": "07:40"
+    },
+    {
+      "linha": "488 - Vila Yara / Terminal Butantã",
+      "atraso_min": 6,
+      "lotacao": 2,
+      "horario": "17:30"
+    },
+    {
+      "linha": "488 - Vila Yara / Terminal Butantã",
+      "atraso_min": 10,
+      "lotacao": 2,
+      "horario": "18:05"
+    },
+    {
+      "linha": "557 - Vila Yara / Terminal Itapevi",
+      "atraso_min": 20,
+      "lotacao": 2,
+      "horario": "19:57"
+    }
+  ]
+}
